@@ -9,7 +9,7 @@ public void demoTest() {
 	System.out.println("second Push");
 	System.out.println("third Push");
 	System.out.println("Fourth Push");
-
-	
+System.out.println("modify1");
+	System.out.println("modify2");
 }
 }
